@@ -29,7 +29,7 @@ if not pc.has_index(index_name):
     )
 
 # read data from text file
-with open("data.txt", "r") as file:
+with open("DBMS.pdf", "r") as file:
     raw_text = file.read()
 
 # split text into small pieces
