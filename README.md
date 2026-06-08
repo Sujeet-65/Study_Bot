@@ -30,5 +30,3 @@ PINECONE_API_KEY=your_key
 `you: What is DBMS?`  
 `bot: DBMS is a software system used to manage data...`
 
-## 👨‍💻 Author
-Ajit Gaud
